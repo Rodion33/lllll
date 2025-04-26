@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    padding: 20px;
+     background-color:blue;
+
+}
+
+header a{
+    text-decoration:none ;
+    color:white;
+    margin-right: 20px;
+}
+
+a:hover{
+    color:blueviolet;
+    transition: all 0.5s lianer;
+}
+h1{
+    text-align: center;
+    color: rgb(189,189,249)
+}
+img:hover{
+    transform: scale(0.9);
+}
+li:hover{
+    color:blueviolet;
+}
